@@ -17,12 +17,19 @@ Education
 
 Work experience
 ======
+* Advanced Software Development Engineer, Amazon, United States, 2016-2020
+  * Duties included: Build and maintain recommendation system for Amazon 3rd party sellers
+
 * Software Development Engineer, Huawei Technologies, China, 2011-2013
   * Duties included: Customize Linux Kernel for ARM, X86 processors
-
-* Software Development Engineer, Amazon, United States, 2016-2020
-  * Duties included: Build and maintain recommendation system for Amazon 3rd party sellers
   
+Awards and Scholarships 
+======
+*	Academic Achievement Award (top 1%), New York University, 2015
+*	Outstanding Teaching Assistant Award, New York University, 2016
+*	Graduate Scholarship, New York University, 2014 - 2016
+* Renmin Scholarship, Wuhan University, 2008, 2009
+
 Skills
 ======
 * Programming Language: C, Java, Python, SQL
