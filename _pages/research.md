@@ -5,12 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
 
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+### Key-Recovery Attack on a Public-Key Encryption Related to Planted Clique
+Caicai Chen, [Chris Jones](https://chrisjones.space/)
+*Manuscript*, 2024 [(pdf)](caicai-chen.github.io/assets/papers/attack-pke-planted-clique.pdf)
