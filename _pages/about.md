@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year PhD student in Statistics and Computer Science at Bocconi University.
+I am currently a Ph.D. student in Statistics and Computer Science at Bocconi University.
 
 Research Interests
 ======
