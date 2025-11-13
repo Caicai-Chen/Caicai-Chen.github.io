@@ -23,5 +23,5 @@ Caicai Chen, Yuval Ishai, Tamer Mour, Alon Rosen
 *Under submission*
 
 **Private Random Forest Training via FHE and MPC**  
-Caicai Chen, Chrysa Oikonomou, Katerina Sotiraki, Yunhao Wang
+Caicai Chen, Chrysa Oikonomou, Katerina Sotiraki, Yunhao Wang 
 *Under submission*
