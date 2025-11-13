@@ -32,8 +32,8 @@ Awards and Scholarships
 
 Skills
 ======
-* Programming Language: C, Java, Python, SQL
-* Languages: Chinese(mothertongue), English
+* Programming Language: C, Java, Go, Python, SQL
+* Languages: Chinese (native), English (fluent), Italian (basic proficiency)
 
 Interests and Activities
 ======
